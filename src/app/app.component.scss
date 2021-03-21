@@ -1,0 +1,18 @@
+.container-fluid {
+  height: calc(100vh - 56px);
+
+  > .row {
+    height: 100%;
+  }
+}
+.navbar{
+  background-color: #02327B;
+}
+.nav-link{
+  font-weight: bold;
+  color: white;
+}
+.aside{
+  background-color:rgba(2, 50, 123, 0.8);  
+}
+ 
